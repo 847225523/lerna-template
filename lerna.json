@@ -8,6 +8,9 @@
   "command": {
     "publish": {
       "registry": "https://github.com/847225523/lerna-template.git"
+    },
+    "bootstrap": {
+      "hoist": true
     }
   }
 }
