@@ -1,6 +1,6 @@
 {
   "name": "cli",
-  "version": "0.0.4-alpha.0",
+  "version": "0.0.5-alpha.0",
   "description": "> TODO: description",
   "author": "zhw <847225523@qq.com>",
   "homepage": "",
@@ -22,5 +22,6 @@
   "dependencies": {
     "chalk": "^5.0.0",
     "cli-shared-utils": "^0.0.2-alpha.0"
-  }
+  },
+  "gitHead": "d28a2231c2610547fc77806b72da3712f18ca43e"
 }
